@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934116993798",
+    "project_id": "fir-001-bc604",
+    "storage_bucket": "fir-001-bc604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934116993798:android:740105e8e0bad06692cc87",
+        "android_client_info": {
+          "package_name": "com.cookandroid.firebase001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934116993798-lfnrhu914girdtd8li704jkie45v3b3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaHtxC2AplETiS6OuSw4xQSMMEGgh6PJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934116993798-lfnrhu914girdtd8li704jkie45v3b3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
